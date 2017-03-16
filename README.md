@@ -1,4 +1,3 @@
-# QAsrApi
 # 3i Speech Recognition API Client
 
 <div align="center">
